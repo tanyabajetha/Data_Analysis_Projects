@@ -1,17 +1,21 @@
-# Data_Analysis_Projects
+1) Diwali Sales Analysis (Python)
 
-●Exploratory Data Analysis of Diwali Sales Data to improve customer experience
+Exploratory Data Analysis of Diwali Sales Data to improve customer experience
 
-Description: Performed exploratory data analysis using libraries like Pandas, Numpy,Matplotlib,and Seaborn Improved customer experience by identifying potential customers across different states, occupation, gender and age groups.
+Performed exploratory data analysis using libraries like Pandas, Numpy,Matplotlib,and Seaborn Improved customer experience by identifying potential customers across different states, occupation, gender and age groups.
 
 
-●HBFC Bank Personal Loan
+2) HBFC Bank Personal Loan (Excel)
 
 Description: This project aims to boost the number of people taking out personal loans by studying different factors provided in the data.
+
 Used charts, Pivot tables, and statistical measures to explore and understand these variables better.
 
-●Car claim Insurance
+3) Pizza Sales Analysis (SQL)
 
-Description: The task is to explore data to improve the uptake of personal loans. 
-Create a clear storyboard by Keeping plots clean, with consistent colors and interactivity. End with a summary dashboard and recommendations for the claims system.
+Description: The task is to analyze the pizza sales data and identify the patterns and trends using sql queries.
+
+Used functions like count, round, average. Clauses like order by, group by, limit. Joins like inner and left. Window functions and subqueries. 
+
+
 
