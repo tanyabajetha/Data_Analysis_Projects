@@ -1,4 +1,4 @@
-1) Diwali Sales Analysis (Python)
+1) Ecommerce Sales Analysis (Python)
 
 Exploratory Data Analysis of Diwali Sales Data to improve customer experience
 
